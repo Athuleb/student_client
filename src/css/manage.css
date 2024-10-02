@@ -1,0 +1,19 @@
+.manage-std{
+
+    width: auto;
+    height: auto;
+    overflow-y: auto;
+    
+}
+.show-list{
+    flex-grow: 1;
+    overflow-y: auto; 
+    max-height: 65vh;
+    margin: 10px;
+}
+.container{
+
+    max-height: 80dvh; /* Sets the maximum height to the full viewport */
+    overflow-y: auto;  /* Enables vertical scrolling */
+
+}
